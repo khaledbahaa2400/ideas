@@ -12,7 +12,7 @@ A simple twitter clone using Laravel.
 
 ## Project Origin
 
-This project is based on <a src="https://www.youtube.com/playlist?list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU">Laravel 10 Beginners Course</a> by "Yelo Code", with some modifications and additions:
+This project is based on <a href="https://www.youtube.com/playlist?list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU">(Laravel 10 Beginners Course)</a> by "Yelo Code", with some modifications and additions:
 
 ## Getting Started
 
